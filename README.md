@@ -1,4 +1,4 @@
-# Drumkit
+# Drum Kit
  
 - 🥁 [Description](#description)
 - 🥁 [Features](#features)
